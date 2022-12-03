@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Tamas, software developer.
-- 🌱 I’m currently learning Qt framework.
+- Hi, I’m Tamas, software developer.
+- I work with microcontrollers
+- I program in C++ and python
+- I often use the QT framework and the Visual Studio Code IDE
 - I like building Machine User Interfaces.
-- I’m interested science fiction and listen to metal-rock music. 
 - You can visit my website: https://takacs-elektronika.com/
 
 
