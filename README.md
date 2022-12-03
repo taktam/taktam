@@ -1,4 +1,4 @@
-- Hi, I’m Tamas, software developer.
+- Hi, I’m Tamas, software developer as freelancer
 - I work with microcontrollers
 - I program in C++ and python
 - I often use the QT framework and the Visual Studio Code IDE
