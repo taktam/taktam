@@ -1,8 +1,6 @@
-- Hi, I’m Tamas, software developer as freelancer
-- I work with microcontrollers (STM32 currently)
-- I program in C++ and Python
+- Hi, I’m Tamas, software developer
+- I program in C, C++ and Python
 - I often use the QT framework and the Visual Studio Code IDE
-- You can visit my website: https://takacs-elektronika.com/
 
 
 
